@@ -1,0 +1,6 @@
+name: StatsPlayer
+main: StatsPlayer\Main
+version: 1.0.0
+api: [1.12.0]
+author: HachetteDoren 
+Description:" Plugin for Money,Players Online, your Username"
